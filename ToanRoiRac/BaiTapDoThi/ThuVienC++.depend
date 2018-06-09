@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1525279582 source:g:\code\code\thuvienc++\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<set>
+	<stack>
+	<queue>
+	<map>
+
